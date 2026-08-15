@@ -498,18 +498,6 @@ The dataset powers both the product catalog and Power BI analytics.
 
 ---
 
-# 👩‍🏫 Guide
-
-**Guide:** Add Faculty Name
-
----
-
-# 🎓 Institution
-
-**Institution:** Add College Name
-
----
-
 # 📸 Screenshots
 
 - 🏠 Home Page
@@ -520,8 +508,6 @@ The dataset powers both the product catalog and Power BI analytics.
 ---
 
 # 🔗 Project Links
-
-**GitHub:** YOUR_GITHUB_LINK
 
 **Live Website:** YOUR_WEBSITE_LINK
 
@@ -540,7 +526,3 @@ We sincerely thank our faculty members and project guide for their continuous gu
 The **Smart Retail Analytics & Inventory Management System** demonstrates how modern e-commerce can be enhanced with **AI automation, workflow automation, business intelligence, and data-driven decision making**. By integrating shopping, customer management, Power BI analytics, Google Sheets automation, and AI chatbot support, SmartCart creates a complete intelligent retail solution for both customers and businesses.
 
 ---
-
-# 🚀 Smart Retail. Smarter Decisions.
-
-**Built with ❤️ by the SmartCart Team**
