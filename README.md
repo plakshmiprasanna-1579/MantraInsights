@@ -3,7 +3,7 @@
 
 > An AI-powered e-commerce platform integrating online shopping, inventory management, workflow automation, customer support, Google Sheets, and Microsoft Power BI analytics.
 
----
+--- 
 
 # 📌 Project Overview
 
