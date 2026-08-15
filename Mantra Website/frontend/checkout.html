@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+content="width=device-width, initial-scale=1.0">
+
+<title>Checkout | SmartCart</title>
+
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/responsive.css">
+
+</head>
+
+
+<body>
+
+
+<header class="navbar">
+
+<div class="logo">
+<span>Smart</span>Cart
+</div>
+
+</header>
+
+
+<main class="checkout-page">
+
+
+<div class="page-title">
+
+<p>SECURE CHECKOUT</p>
+
+<h1>Complete Your Order</h1>
+
+</div>
+
+
+<form id="checkout-form"
+class="checkout-container">
+
+
+<div class="glass checkout-form">
+
+<h2>Customer Details</h2>
+
+
+<div class="form-group">
+
+<label>Full Name</label>
+
+<input
+type="text"
+id="name"
+required
+placeholder="Enter your name">
+
+</div>
+
+
+<div class="form-group">
+
+<label>Email</label>
+
+<input
+type="email"
+id="email"
+required
+placeholder="Enter your email">
+
+</div>
+
+
+<div class="form-group">
+
+<label>Phone Number</label>
+
+<input
+type="tel"
+id="phone"
+required
+placeholder="Enter phone number">
+
+</div>
+
+
+<div class="form-group">
+
+<label>Address</label>
+
+<textarea
+id="address"
+required
+placeholder="Enter delivery address">
+</textarea>
+
+</div>
+
+
+<div class="form-group">
+
+<label>City</label>
+
+<input
+type="text"
+id="city"
+required>
+
+</div>
+
+
+<div class="form-group">
+
+<label>Payment Method</label>
+
+<select id="payment">
+
+<option value="Cash on Delivery">
+Cash on Delivery
+</option>
+
+<option value="Online Payment">
+Online Payment
+</option>
+
+</select>
+
+</div>
+
+
+<button
+type="submit"
+class="primary-btn full-btn">
+
+Place Order
+
+</button>
+
+
+</div>
+
+
+<div class="glass order-summary">
+
+<h2>Order Summary</h2>
+
+<div id="checkout-items"></div>
+
+<hr>
+
+<h3>
+Total:
+₹<span id="checkout-total">0</span>
+</h3>
+
+</div>
+
+
+</form>
+
+
+</main>
+
+
+<script src="js/app.js"></script>
+<script src="js/checkout.js"></script>
+
+</body>
+
+</html>
