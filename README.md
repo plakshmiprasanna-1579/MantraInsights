@@ -511,7 +511,7 @@ The dataset powers both the product catalog and Power BI analytics.
 
 **Live Website:** YOUR_WEBSITE_LINK
 
-**Power BI Dashboard:** YOUR_POWERBI_LINK
+**Power BI Dashboard:** https://app.powerbi.com/groups/me/reports/59933db7-74b1-4978-806b-668bd952dca2/042a9694172369b7aab6?experience=power-bi
 
 ---
 
